@@ -1,5 +1,5 @@
-## Calculadora interactiva con REACT
-#👨‍💻 ¡Bienvenidos a mi proyecto en Github!
+# Calculadora interactiva con REACT
+👨‍💻 ##¡Bienvenidos a mi proyecto en Github!
 
 ![](https://github.com/fernandoDelPo/interactive-calculator/blob/main/src/assets/images/calculator%201.jpg?raw=true)
 
@@ -9,7 +9,7 @@ Este repositorio contiene una calculadora interactiva construida con React y uti
 
 💻 Este proyecto es ideal para aquellos que desean mejorar sus habilidades en React y Props, ya que proporciona una forma divertida de practicar la creación de componentes interactivos.
 
-# Cómo usar
+## Cómo usar
 1- Clona este repositorio en tu equipo
 
 2- Ejecuta "npm install" y luego "npm start"
