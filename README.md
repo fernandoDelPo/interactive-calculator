@@ -1,6 +1,6 @@
 # Calculadora interactiva con REACT
 
-## ¡Bienvenidos a mi proyecto en Github! 👨‍💻
+## ¡Bienvenidos a mi proyecto! 👨‍💻
 
 ![](https://github.com/fernandoDelPo/interactive-calculator/blob/main/src/assets/images/calculator%201.jpg?raw=true)
 
