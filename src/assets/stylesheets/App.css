@@ -9,6 +9,23 @@ body {
   background-color: hsl(253, 47%, 17%);
 } */
 
+:root {
+	--color-1: oklch(70% 0.5 340);
+	--color-2: oklch(90% 0.5 200);
+}
+
+@keyframes bg {
+	0% {
+		background-position: 0 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0 50%;
+	}
+}
+
 .App {
   height: 100vh;
   display: flex;
@@ -17,7 +34,10 @@ body {
   justify-content: center;
   padding-top: 15px;
   font-family: Lato, sans-serif;
-  background-color: hsl(253, 47%, 17%);
+  min-height: 100vh;
+	background: linear-gradient(-45deg, var(--color-1), var(--color-2));
+	background-size: 500% 500%;
+	animation: bg 3s ease infinite reverse;
 }
 
 .title {
